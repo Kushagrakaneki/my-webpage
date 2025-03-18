@@ -3,6 +3,7 @@ body {
   color: white;
   background-image: url(wwelogo.png);
   background-position: center;
+  background-attachment: fixed;
   /* background-size: cover; */
 
 
